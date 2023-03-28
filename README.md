@@ -1,6 +1,6 @@
 # datascience
 
 ## overview
--abc
--djf
--djo
+- abc
+- djf
+- djo
